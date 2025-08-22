@@ -1,6 +1,21 @@
 import { AUTOR, SOBRE_MIM } from '@/lib/contants';
 import Image from 'next/image';
 
+{/* <div className="flex gap-4 mt-6">
+                <Button
+                    onClick={prev}
+                    className="bg-gray-700 hover:bg-gray-600 p-3 rounded-full"
+                >
+                    <ChevronLeft size={24} />
+                </Button>
+                <Button
+                    onClick={next}
+                    className="bg-gray-700 hover:bg-gray-600 p-3 rounded-full"
+                >
+                    <ChevronRight size={24} />
+                </Button>
+            </div> */}
+
 export default function Inicio() {
     return (
         <section className="flex flex-col md:flex-row w-full bg-accent items-center justify-between px-6 md:px-24 py-16 gap-12">
