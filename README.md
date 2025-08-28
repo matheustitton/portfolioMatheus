@@ -10,7 +10,7 @@ O site está organizado em quatro seções:
 
 ---
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 O projeto foi construído com as seguintes tecnologias:
 
 - **Next.Js -** Framework React fullstack com suporte a SSR e API routes.
@@ -20,6 +20,55 @@ O projeto foi construído com as seguintes tecnologias:
 
 ---
 
-# Protótipos
+## Protótipos
 
 Para visualizar o protótipo do projeto [clique aqui](./images/Protótipo.png) 🚀
+
+---
+
+
+## 📂 Estrutura do Projeto
+
+📦 meu-portifolio
+├── 📁 public
+├── 📁 src
+│   ├── 📁 components   # Componentes reutilizáveis
+│   ├── 📁 pages        # Páginas principais
+│   ├── 📁 assets       # Imagens e ícones
+│   ├── App.tsx
+│   └── main.tsx
+├── tailwind.config.js
+├── package.json
+└── README.md
+
+---
+
+##⚙️ Como rodar localmente
+
+1. Clone o repositório:
+git clone https://github.com/matheustitton/portifolioMatheus.git
+
+
+2. Entre na pasta do projeto:
+cd portifolio
+
+3. Instale as dependências:
+npm install
+
+4. Rode o projeto em ambiente de desenvolvimento:
+npm run dev
+
+---
+
+##☁️ Deploy na Vercel
+O projeto está hospedado na Vercel.
+Acesse: 👉 https://portfolio-matheus-tau.vercel.app/
+
+---
+
+##📬 Contato
+ - 📧 Email: seuemail@email.com
+ - 💼 LinkedIn: linkedin.com/in/seu-usuario
+ - 🐙 GitHub: github.com/seu-usuario
+
+
