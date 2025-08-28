@@ -26,7 +26,7 @@ Para visualizar o protótipo do projeto [clique aqui](./images/Protótipo.png) �
 
 ---
 
-#⚙️ Como rodar localmente
+⚙️ #Como rodar localmente
 
 1. Clone o repositório:
 git clone https://github.com/matheustitton/portifolioMatheus.git
@@ -43,13 +43,13 @@ npm run dev
 
 ---
 
-#☁️ Deploy na Vercel
+☁️ #Deploy na Vercel
 O projeto está hospedado na Vercel.
 Acesse: 👉 https://portfolio-matheus-tau.vercel.app/
 
 ---
 
-#📬 Contato
+📬 #Contato
  - 📧 Email: seuemail@email.com
  - 💼 LinkedIn: linkedin.com/in/seu-usuario
  - 🐙 GitHub: github.com/seu-usuario
