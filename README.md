@@ -49,7 +49,7 @@ Acesse: 👉 https://portfolio-matheus-tau.vercel.app/
 
 📳 Representação Gráfica:
 
-![GIF REPOSITORIO](./images/repo-gif.png)
+![GIF REPOSITORIO](./images/repo-gif.gif)
 
 ---
 
