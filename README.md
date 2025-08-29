@@ -47,6 +47,10 @@ npm run dev
 O projeto está hospedado na Vercel.
 Acesse: 👉 https://portfolio-matheus-tau.vercel.app/
 
+📳 Representação Gráfica:
+
+(./imagens/repo-gif.gif)
+
 ---
 
 📬 Contato
